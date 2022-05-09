@@ -1,0 +1,77 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+  font-size: 25px;
+  font-style: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 35px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-size: 23px;
+
+  line-height: 1.5;
+}
+
+li {
+  font-size: 20px;
+
+  line-height: 1.5;
+}
+
+footer p {
+  font-size: 20px;
+  text-align: center;
+}
+
+/* article header p {
+  font-size: 30px;
+  font-style: italic;
+} */
+
+.related-author {
+  font-size: 30px;
+  font-style: italic;
+}
+
+.test {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* ul {
+  list-style: none;
+} */
+
+.related {
+  list-style: none;
+}
+
+#content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 0;
+}
